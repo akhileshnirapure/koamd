@@ -13,3 +13,10 @@ I'll keep adding my examples hope this helps people to get started.
 
 Any issues you can reach out to me at Twitter: AkhileshN
 
+Author:
+
+Akhilesh Nirapure
+
+Credits:
+
+Using Yahoo Namespace Logic from Yahoo Library
